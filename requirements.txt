@@ -1,0 +1,7 @@
+numpy
+scipy
+bumps
+pandas
+matplotlib
+imageio
+scikit-learn

@@ -29,7 +29,7 @@
 
 ---
 categories:
-  # - ai-ml
+  - ai-ml
   # - performance-and-workflow
   - scientific-software
   # - simulation
@@ -37,7 +37,7 @@ categories:
   # - visualization
 
 themes:
-  - Information Technology
+  # - Information Technology
     - Data and informatics
   # - Advanced communications
   #     - Optical communications
@@ -202,14 +202,14 @@ themes:
   #     - Systems integration
   #     - Technology commercialization
   #
-  # - Materials
+  - Materials
   #     - Ceramics
   #     - Composites
   #     - Concrete and cement
-  #     - Materials characterization
+      - Materials characterization
   #         - Composition and structure
-  #         - Magnetic properties
-  #         - Mechanical properties
+          - Magnetic properties
+          # - Mechanical properties
   #         - Thermal properties
   #     - Metals
   #     - Modeling and computational material science
@@ -258,7 +258,7 @@ themes:
   #     - Nanophysics
   #     - Nanoplasmonics
   #
-  # - Neutron research
+  - Neutron research
   #
   # - Performance excellence
   #     - Assessment tools and services
